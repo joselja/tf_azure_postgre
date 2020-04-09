@@ -1,7 +1,3 @@
-## How create an Azure PostgreSQL Database
-
-This Terraform module creates a Azure PostgreSQL Database.
-
 ## Usage
 
 ```hcl
